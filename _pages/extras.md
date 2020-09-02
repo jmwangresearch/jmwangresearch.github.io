@@ -2,9 +2,9 @@
 permalink: /extras/
 title: "Extras"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+<!--redirect_from: -->
+  <!--- /md/-->
+  <!--- /markdown.html-->
 ---
 
 ## Title 1
